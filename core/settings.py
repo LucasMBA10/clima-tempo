@@ -84,7 +84,7 @@ WSGI_APPLICATION = 'core.wsgi.application'
 #     }
 # }
 
-# MONGO_CONNECTION_STRING = "mongodb+srv://ads_user:<password>@clusterads.xmrbktn.mongodb.net/?retryWrites=true&w=majority&appName=ClusterADS"
+MONGO_CONNECTION_STRING = "mongodb+srv://lucasmatosba10:lucario10@cluster0.9tdng9k.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 MONGO_CONNECTION_STRING = 'mongodb://10.109.2.63:443/'
 MONGO_DATABASE_NAME = 'weather_andresouza'
 
